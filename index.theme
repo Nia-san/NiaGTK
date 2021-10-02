@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NiaGTK
+Comment=Dark theme recoloring Nordic
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NiaGTK
+MetacityTheme=NiaGTK
+IconTheme=Zafiro-icons
+ButtonLayout=:minimize,maximize,close
